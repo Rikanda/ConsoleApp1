@@ -5,7 +5,7 @@ using System.IO;
 
 namespace ConsoleApp2
 {
-    class Program
+    class Programq
     {
         static void Main(string[] args)
 
